@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypter", "Crypter\Crypter.csproj", "{39F27FEA-CE73-427E-AB32-E2AAB597CADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "D:\VisualStudioProjects\Stub\Stub\Stub.csproj", "{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "Stub\Stub.csproj", "{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
