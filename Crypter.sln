@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypter", "Crypter\Crypter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "Stub\Stub.csproj", "{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppConsole", "TestAppConsole\TestAppConsole.csproj", "{79C5F1A8-7D96-44DA-9DBF-8EEC6716904D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C5F1A8-7D96-44DA-9DBF-8EEC6716904D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C5F1A8-7D96-44DA-9DBF-8EEC6716904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C5F1A8-7D96-44DA-9DBF-8EEC6716904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C5F1A8-7D96-44DA-9DBF-8EEC6716904D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
