@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypter", "Crypter\Crypter.csproj", "{39F27FEA-CE73-427E-AB32-E2AAB597CADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub", "D:\VisualStudioProjects\Stub\Stub\Stub.csproj", "{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F27FEA-CE73-427E-AB32-E2AAB597CADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F27FEA-CE73-427E-AB32-E2AAB597CADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F27FEA-CE73-427E-AB32-E2AAB597CADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F27FEA-CE73-427E-AB32-E2AAB597CADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F26CF4-0D22-4D35-88B9-9186DA4EBD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D039D90E-3649-4D05-822A-49C483665400}
+	EndGlobalSection
+EndGlobal
